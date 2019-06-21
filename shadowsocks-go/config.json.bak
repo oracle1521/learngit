@@ -1,0 +1,18 @@
+{
+    "server":"0.0.0.0",
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "port_password": {
+        "8112": "hello@g00g1e",
+        "8113": "hello@0rac1e",
+        "8212": "hello@g1thub",
+        "8213": "hello@y0utube",
+        "8312": "hello@red1s",
+        "8313": "hello@m0ngodb",
+        "8912": "hello@faceb00k",
+        "8913": "hello@mysq1"
+    },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false
+}
